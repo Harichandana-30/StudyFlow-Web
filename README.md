@@ -29,7 +29,10 @@ https://studyflow-web-5c8j.onrender.com
 ```md
 ## Project Preview
 
-![StudyFlow Preview](studyflow-preview.png)
+```md
+## Project Preview
+
+<img src="./studyflow-preview.png" width="900">
 ```
 
 ## Project Structure
