@@ -26,14 +26,9 @@ https://studyflow-web-5c8j.onrender.com
 * GitHub
 * Render
 
-```md
-## Project Preview
-
-```md
 ## Project Preview
 
 <img src="./studyflow-preview.png" width="900">
-```
 
 ## Project Structure
 
