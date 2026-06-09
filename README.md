@@ -26,13 +26,9 @@ https://studyflow-web-5c8j.onrender.com
 * GitHub
 * Render
 
+```md
 ## Project Preview
 
-Add application screenshots here.
-
-Example:
-
-```md id="0vtjo4"
 ![StudyFlow Preview](studyflow-preview.png)
 ```
 
